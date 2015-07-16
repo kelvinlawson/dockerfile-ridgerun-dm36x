@@ -1,0 +1,6 @@
+InstallDir: /usr/local/dvsdk
+InstallMode: Console
+InstallType: dm368-evm
+ProgramFolderName: dvsdk
+SelectedComponents: dm368-evm,bsp,multimedia,graphics
+ViewReadme: Yes
